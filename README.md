@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi — I'm Muhammed Kans (kans-devops)
 
-<!--
-**kans-devops/kans-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design systems that **stay online, scale under pressure, and recover fast**.  
+Currently working as a DevOps Engineer — building automation, CI/CD, and reliable infrastructure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I deliver (for small teams & startups)
+- **Clean CI/CD pipelines** (Jenkins → GitHub Actions) that run tests, build artifacts, and deploy safely.  
+- **Containerization & deployments** — Docker images and reliable deployments to AWS EC2 / small K8s clusters.  
+- **Infrastructure as Code** — maintainable Terraform + Ansible modules for repeatable environments.  
+- **Monitoring & reliability** — Prometheus/Grafana basics to keep your apps visible and recoverable.
+
+---
+
+## 📂 Featured projects (will be public soon)
+- **jenkins-ci-node-starter** — Jenkins pipeline → Docker image build (sample microservice app).  
+- **gha-ci-node-starter** — GitHub Actions equivalent (CI for Node apps).  
+- **aws-ec2-ansible-deploy** — Small Ansible playbook to deploy app on EC2 with Nginx.
+
+Each repo has step-by-step README so you or your team can reproduce the setup in under an hour.
+
+---
+
+## 🛠️ Tech I use
+`AWS` | `Jenkins` | `GitHub Actions` | `Docker` | `Ansible` | `Terraform (small modules)` | `Kubernetes (basic)` | `Prometheus & Grafana`
+
+---
+
+## 📫 Contact
+- Email: **kans.devops.engineer@gmail.com**  
+- LinkedIn: 
+
+---
+
+> **Motto:** *If it takes more than twice, automate it.*
+
